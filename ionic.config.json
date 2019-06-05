@@ -1,5 +1,7 @@
 {
   "name": "safari",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
